@@ -1,8 +1,8 @@
 <?php
+/**
+ * Main entry point.
+ *
+ * @package  github-actions
+ */
 
-echo 'inside master branch';
-echo 'Line added by feature-1';
-echo 'added by main';
-echo 'added line 6';
-
-echo 'added line 7';
+echo 'inside main';
